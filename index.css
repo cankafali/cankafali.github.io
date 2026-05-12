@@ -1,0 +1,35 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+
+    background-color: grey;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#top {
+background-color: lightblue;
+height: 35%;
+}
+
+#mid {
+background-color: lightgreen;
+height: 50%;
+}
+
+#bottom {
+background-color: lightcoral;
+height: 15%;
+}
+
+.redArea {
+    height: 40vh;
+    width: 100%;
+    text-align: center;
+    
+}
