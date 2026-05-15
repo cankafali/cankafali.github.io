@@ -6,7 +6,7 @@ body {
     width: 100vw;
 
 
-    background-image: url(https://www.colourlovers.com/pattern/6049869/Konfetti4);
+    background-image: url(https://i.pinimg.com/736x/56/dc/2a/56dc2a3658ac945458958127de0e8ed6.jpg);
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 
 #greenArea {
     width: 45%;
-    height: 100%;
+    aspect-ratio: 1 / 1;
     background-color: rgb(250, 0, 33);
     margin: auto;
     display: flex;
@@ -54,6 +54,7 @@ body {
 .colorTab {
 
     flex: 0 0 50%;
+    aspect-ratio: 1 / 1;
 }
 
 #blue {
